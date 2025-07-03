@@ -63,12 +63,4 @@ Saya terbuka untuk kolaborasi di proyek:
 
 ### 💬 Kutipan Favorit
 
-> _“Belajar pelan-pelan yang penting konsisten. Koding itu bukan tentang cepat, tapi tentang sabar.”_
-
----
-
-### ✨ Catatan Tambahan
-
-Jika kamu ingin melihat beberapa proyek saya, silakan cek repository yang saya pin di atas atau kirim pesan lewat email.  
-Terima kasih sudah mampir ke profil saya! 🙏
-
+> _“Belajar pelan-pelan yang penting konsisten. Koding itu bukan tentang cepat, tapi tentang sabar.”
