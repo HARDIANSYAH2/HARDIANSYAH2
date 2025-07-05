@@ -1,5 +1,5 @@
 
-<img src="https://images.app.goo.gl/qBHfR3kUcCC31bhE8" alt="Kucing Lucu" width="100">
+<img src="https://images.app.goo.gl/qBHfR3kUcCC31bhE8" width="100">
 <h1 align="center">Hi 👋, I'm Ardeka Hardiansyah</h1>
 <h3 align="center">💻 Siswa RPL  | 👨‍💻 Junior Web Developer | 🎯 Terus Belajar</h3>
 
