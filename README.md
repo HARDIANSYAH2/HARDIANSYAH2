@@ -1,5 +1,5 @@
 
-<img src="https://pin.it/1jdvCY7ZQ.jpg" width="100">
+<img src="/storage/emulated/0/Pictures/file_0000000054c861f58284d8358a883225.png" width="100">
 <h1 align="center">Hi 👋, I'm Ardeka Hardiansyah</h1>
 <h3 align="center">💻 Siswa RPL  | 👨‍💻 Junior Web Developer | 🎯 Terus Belajar</h3>
 
