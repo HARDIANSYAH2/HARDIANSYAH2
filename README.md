@@ -7,7 +7,7 @@
 ### 🙋‍♂️ Tentang Saya
 
 Halo! Saya Ardeka, pelajar dari **SMKN 1 TALAGA** jurusan **Rekayasa Perangkat Lunak**.  
-Saya suka membangun aplikasi web dan mobile yang bermanfaat, mulai dari sistem pemesanan makanan hingga mini e-commerce berbasis mobile.
+Saya suka membangun aplikasi web yang bermanfaat, mulai dari sistem pemesanan makanan.
 
 ---
 
