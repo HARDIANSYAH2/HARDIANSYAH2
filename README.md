@@ -13,16 +13,14 @@ Saya suka membangun aplikasi web yang bermanfaat, mulai dari sistem pemesanan ma
 
 ### 🚀 Saat Ini Sedang Dikerjakan
 
-- Aplikasi Pemesanan Makanan Online (Laravel + MySQL)
-- Mobile E-Commerce (React Native)
+- Aplikasi Pemesanan Lapangan Online (Laravel + MySQL)
+
 
 ---
 
 ### 🌱 Sedang Saya Pelajari
 
 - Laravel (Backend Web Framework)
-- React Native (Mobile Development)
-- TailwindCSS (Utility-first CSS)
 
 ---
 
@@ -30,8 +28,6 @@ Saya suka membangun aplikasi web yang bermanfaat, mulai dari sistem pemesanan ma
 
 Saya terbuka untuk kolaborasi di proyek:
 - Website sederhana untuk UMKM
-- Aplikasi mobile berbasis kebutuhan lokal
-- Sistem informasi sekolah atau komunitas
 
 ---
 
